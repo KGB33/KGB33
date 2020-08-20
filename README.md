@@ -1,7 +1,8 @@
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=KGB33&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/KGB33/github-readme-stats)
-
+# About Me
+  I am a self taught Python developer seeking a position where I can apply and improve my skills in Python, software testing, and CI/CD. Currently I am using Pytest and MyPy in connection with Github actions to ensure code quality throughout my projects. In addtion to Python I am currently learning Go an have minor experiance with Java and C.
+  
+ # Some Stats
+  
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
