@@ -5,6 +5,7 @@
 
 - A homelab monitoring solution using a Go CLI to hit API endpoints on Python (flask) servers.
 - Studying for the CompTIA Security+ exam.
+- Advent of [Code](code)/[Cyber](cyber) 2020
 
 
 # Recipe
@@ -28,3 +29,6 @@ Add the Following Spices to taste
   2. Add all ingredients to a small pan. Add water to cover beans.
   3. Bring to a simmer and boil off water until your desired consistency is reached. Stir occasionally. 
   4. For mushier beans, simmer for longer, adding water as necessary.
+ 
+[code]: https://adventofcode.com/2020
+[cyber]: https://tryhackme.com/room/adventofcyber2
