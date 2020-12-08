@@ -3,7 +3,7 @@
   
 # What I'm working on
 
-- A homelab monitoring solution using a Go CLI to hit API endpoints on Python (flask) servers.
+- A homelab monitoring solution using a Go CLI to hit API endpoints on Python (FastAPI) servers.
 - Studying for the CompTIA Security+ exam.
 - Advent of [Code]/[Cyber] 2020
  
