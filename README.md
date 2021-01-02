@@ -5,7 +5,7 @@
 
 - A homelab monitoring solution using a Go CLI to hit API endpoints on Python (FastAPI) servers.
 - Studying for the CompTIA Security+ exam.
-- Advent of [Code]/[Cyber] 2020
+- Reading "Black Hat Go" by Tom Steele, Chris Patten, and Dan Kottmann.
+- Advent of [Code] 2020
  
 [Code]: https://adventofcode.com/2020
-[Cyber]: https://tryhackme.com/room/adventofcyber2
