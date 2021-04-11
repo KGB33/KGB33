@@ -1,5 +1,5 @@
 # About Me
-  I am a self taught Python developer, Line Cook, and soon-to-be IT professional.
+  I am a self taught Python developer, IT Service desk employee, and former line cook.
   
 # What I'm working on
 
